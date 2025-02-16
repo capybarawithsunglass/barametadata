@@ -1,7 +1,15 @@
 {
   "name": "CapyBaraWithSunGlass",
   "image": "https://github.com/capybarawithsunglass/barametadata/blob/main/bara_0.png",
-  "symbol": "BARA",
+  "symbol": "BARRA",
   "description": "A capybara wearing sunglasses, looking cool and relaxed.",
-  "website": "https://capybarawithsunglass.wordpress.com/"
+  "uri":"",
+  "website": "https://capybarawithsunglass.wordpress.com/",
+  "creators":[
+          {"address": "A77aDWibWyA6eVf31Jq3hC5kMxeqZgTotfAa6ZM8PcB2",
+                  "verified": true,
+                  "share": 6000
+          }
+
+  ]
 }
